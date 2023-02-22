@@ -1,0 +1,29 @@
+.conteinerGrayRectangle {
+  height: 65vh;
+  width: 25vw;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+
+  background-color: #f7e0ce;
+  color: #1e1e1e;
+  border-radius: 25%;
+
+  position: relative;
+  top: -608px;
+  left: 72%;
+}
+
+.smalConteinerGray {
+  height: 6vh;
+  width: 14vw;
+
+  background-color: #d3c5bb;
+  border-radius: 2em;
+
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}

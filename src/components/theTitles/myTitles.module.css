@@ -1,0 +1,29 @@
+.myTitlesContent {
+  height: 36vh;
+  width: 45vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 6em;
+}
+
+h1 {
+  text-transform: UpperCase;
+  font-size: 6.3em;
+  font-weight: 4;
+}
+
+h2 {
+  font-size: 4em;
+  font-weight: 1;
+  position: relative;
+  bottom: 0.4em;
+}
+
+h3 {
+  font-size: 4em;
+  font-weight: 1;
+  position: relative;
+  top: 1em;
+}

@@ -1,0 +1,98 @@
+Eu tenho que imitar um desing.
+--------------------------------------------------------------------------------------------------------------------------
+O JSX é a forma que escrevemos HTML no
+React.
+Podemos realizar diversas outras ações, como:
+imprimir dados de variáveis em nossos
+templates.
+Como também executar códigos de JavaScript,
+como um if.
+Você pode escrever JSX no arquivo App.js do
+React, ou em qualquer componente, veja na
+próxima página um exemplo de JSX
+
+--------------------------------------------------------------------------------------------------------------------------
+Eventos
+
+Os eventos do React são recursos fundamentais para tratar
+os envios de dados dos usuários
+Como por exemplo o envio de um formulário
+Então para cada ação teremos um evento (clique, teclas,
+formulários e etc.)
+
+--------------------------------------------------------------------------------------------------------------------------
+Existem as estilizações de uso geral, que ficam no arquivo index.css, no caso, 
+criando no codesandbox o nome é styles.css mesmo, 
+e existem arquivos css que podem ser para estilizar um conteúdo individualmente.
+Ficando mais ou meos assim:
+
+import styles from "./funcionario.module.css";     isso fica dentro do arquivo funcionario.js
+
+
+.funcionarioconteiner {     isso fica dentro do arquivo funcionario.module.css
+  height: 70vh;
+  width: 53vw;
+  border-bottom: solid 1.5px black;
+  margin-bottom: 2vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+Com a estrutura dos arquivos sendo mais ou menos assim:
+src
+components
+funcs
+funcionario.js  funcionario.module.css
+
+--------------------------------------------------------------------------------------------------------------------------
+ <section className="App">
+            <div className="">
+              <Titles />
+            </div>
+            <div className="conteinerImagesFruits">
+              <img src={item.imagem} alt="" />
+            </div>
+          </section>
+
+
+           U+F4FA
+           &#xF4FA;
+
+           U+F2E6
+           &#xF2E6;
+
+--------------------------------------------------------------------------------------------------------------------------
+
+
+      /* 
+      retãngulo grande
+      width: 440px;
+      height: 656px;
+      position: absolute;
+      left: 954px;
+      top: 283px;
+      background: #F7E0CE;
+      border-radius: 120px; */
+
+      /* o negócio que eu vou transformar em botão
+      position: absolute;
+      width: 250px;
+      height: 77px;
+      left: 1050px;
+      top: 823px;
+
+      background: #D3C5BB;
+      border-radius: 80px; */
+
+       
+       /*.conteinerImagesfruits {
+  border: solid 2px #0039f5;
+  width: 19%;
+  height: 10%;
+  padding: -3em; 
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}*/
