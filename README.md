@@ -35,7 +35,7 @@ It's part of progress.
 
 <br/>
 <br/>
-<a href="https://m06brn.csb.app/" target="_blank">Veja a página/See the Page</a>
+<a href="https://codesandbox.io/s/m06brn?file=/src/App.js" target="_blank">Código/Code</a>
 
 <br/>
 <br/>
