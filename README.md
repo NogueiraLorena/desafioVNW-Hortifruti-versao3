@@ -32,3 +32,13 @@ I still have a lot to improve, but I'm happy with how it turned out for now.
 <br/>
 <br/>
 It's part of progress.
+
+<br/>
+<br/>
+<a href="https://m06brn.csb.app/" target="_blank">Veja a página/See the Page</a>
+
+<br/>
+<br/>
+<div class="" style="padding-left: 8rem;">
+        <img alt="" src="https://14hp17.csb.app/fruti.jpg" width="600" />
+      </div>
